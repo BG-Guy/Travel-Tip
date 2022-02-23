@@ -1,0 +1,10 @@
+.section-two {
+    width: 90vw;
+    flex-direction: row-reverse;
+    margin: auto;
+}
+
+.map-container {
+    width: 60%;
+    height: 100%;
+}

@@ -1,4 +1,4 @@
-
+"https://maps.googleapis.com/maps/api/js?key=AIzaSyCkcV9CoOqUSR-DxCW0cdgjyxk-gk4tCFU&callback=initMap"
 
 export const mapService = {
     initMap,
