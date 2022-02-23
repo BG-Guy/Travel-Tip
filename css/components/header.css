@@ -1,0 +1,39 @@
+.header {
+    background-color: var(--main-clr);
+    height: 15vh;
+    width: 100vw;
+}
+
+.logo {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+}
+
+.navigation {
+    width: 50%;
+}
+
+.navigation input {
+    border-radius: .5rem;
+    width: 12.9375rem;
+    height: 2rem;
+}
+
+.go-btn {
+    border-radius: .5rem;
+    background-color: --btn-clr;
+    width: 4.9375rem;
+    height: 2rem;
+}
+
+.my-location {
+    background-color: var(--sec-clr);
+    padding: .5rem;
+    border-radius: .5rem;
+
+}
+
+.location-info {
+
+}
+
